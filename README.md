@@ -12,7 +12,8 @@ SauceLabs IE8 older as of 21-November-2013
        update versions: 0
     ...
     ...developer tools out-dated, only supporting minimal set of tools
-    ...browser rendering mode similar to: ?
+    ...browser rendering similar to: ?
+    ...=> best guess: Browser Mode IE8, Document Mode IE8 Standards
     
 Microsoft's IE8 Compatibility Virtual Machine
 
