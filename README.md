@@ -5,7 +5,7 @@ Keep out of quirks mode
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-SauceLabs IE8 older
+SauceLabs IE8 older as of 21-November-2013
 
     => version: 8.0.6001.18702
        cipher strength: 128-bit
